@@ -71,7 +71,7 @@ export default {
       }
 
       // 获取背景图片
-      this.backgroundImage = "https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg";
+      this.backgroundImage = "https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp";
     } catch (error) {
       console.error('Error fetching movie details:', error);
     }

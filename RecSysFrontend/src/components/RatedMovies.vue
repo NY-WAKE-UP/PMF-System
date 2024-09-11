@@ -3,7 +3,7 @@
     <SiteNavigation/>
     <Menu/>
     <div class="hero min-h-screen bg-cover bg-center"
-         style="background-image: url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg);">
+         style="background-image: url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp);">
       <div class="hero-overlay bg-black bg-opacity-50"></div>
       <div class="container mx-auto py-12">
         <div class="text-center text-white mb-6">
